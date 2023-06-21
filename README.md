@@ -12,7 +12,3 @@ I’m currently working on my Fullstack Skills. I'm currently more specialized i
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=jm1069&icon=6&color=2)](https://visitcount.itsvg.in)
