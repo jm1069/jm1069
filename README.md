@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 I’m currently working on my Frontned Skills.<br>
-I’m currently learning more about React and Backend Developement<br>💬
+I’m currently learning more about React and Backend Developement<br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
