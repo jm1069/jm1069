@@ -14,5 +14,7 @@ I’m currently working on my Fullstack Skills. I'm currently more specialized i
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=jm1069&icon=6&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=joeel561&icon=6&color=11)](https://visitcount.itsvg.in)
 
-![VisitCount](https://visitcount.itsvg.in/api?id=jm1069&label=Profile%20Views&color=12&pretty=false)
