@@ -15,4 +15,4 @@ I’m currently working on my Fullstack Skills. I'm currently more specialized i
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jm1069&icon=6&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jm1069&icon=6&color=2)](https://visitcount.itsvg.in)
