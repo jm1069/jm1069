@@ -1,5 +1,5 @@
 # Hi there 👋
-I’m currently working on my Fullstack Skills. I'm currently more specialized in Frontend but working on Backend skills as well
+I’m currently working on my Frontend Skills. Also I'm currently working on some Backend Skills as well
 
 ## Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
